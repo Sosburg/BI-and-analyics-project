@@ -1,1 +1,1 @@
-# INFS-324---BI-Analytics
+# INFS 324 Business intelligence and analytics project
